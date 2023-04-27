@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 必须，不要动 -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<!-- 移动端必须、PC端非响应式可以去掉 -->
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<!-- SEO用 -->
+ <meta name="keywords" content="湖北,湖北省,湖北省药品监督,湖北省药监局,湖北省药品监督管理局局,湖北省药品监督管理局门户网站,mpa.hubei.gov.cn" />
+<meta name="description" content="湖北,湖北省,湖北省药品监督,湖北省药监局,湖北省药品监督管理局局,湖北省药品监督管理局门户网站,mpa.hubei.gov.cn" />
+<meta name="SiteName" content="湖北省药品监督管理局">
+<meta name="SiteDomain" content="mpa.hubei.gov.cn">
+<meta name="SiteIDCode" content="4200000052">
+<meta name="ColumnName" content="产品召回">
+<meta name="ColumnDescription" content="产品召回">
+<meta name="ColumnKeywords" content="产品召回">
+<meta name="ColumnType" content="产品召回 ">
+<title>产品召回-湖北省药品监督管理局</title>
+    <link rel="shortcut icon" href="http://mpa.hubei.gov.cn/material/images/ico.png" />
+<link type="text/css" rel="stylesheet" href="http://mpa.hubei.gov.cn/material/css/infopublic_new_css/bootstrap.css" />
+<link type="text/css" rel="stylesheet" href="http://mpa.hubei.gov.cn/material/css/infopublic_new_css/common.css" />
+<link type="text/css" rel="stylesheet" href="http://mpa.hubei.gov.cn/material/css/infopublic_new_css/ui.css" />
+<link type="text/css" rel="stylesheet" href="http://mpa.hubei.gov.cn/material/css/infopublic_new_css/xxgk.css" />
+<!-- 兼容低版本IE -->
+<meta content="yuegA9f1I44qKItGE6yIcifMlEhzhzp4rrFVsT5MvYxozqy1W1k5YQhXo6h7gZSH0KVbbkeDBTkQ9goPn8O7CvKgTveYY8ZACJlyaiZ6Kkq" r="m"><!--[if lt IE 9]><script r='m'>document.createElement("section")</script><![endif]--><script type="text/javascript" r='m'>$_ts=window['$_ts'];if(!$_ts)$_ts={};$_ts.nsd=35746;$_ts.cd="qx3drrAltklqEGLEWAq2rcVmDkgSqcVkxAq4HPVoDkQlWAq2r1VcDkg2EnVrhG7ErcqSqcVkxAq3HfEqxA32rSG5xAE3JaWSqcVOxAl3HPVDca9loslqEGLtrGV3JaESqcVkxAq3HOlqx1V2rSG5xAVhcGAOWAq2qnVODkgSqcVDxAQ3HOlqxAV2EpG5WAq2qcVrDkg2Jq7PvaqCWAEmWsKIEztOwk2R6YZ2Fru7GoQi1S0QFiKEZx281zwj4XJTxtczqqVcraQq7qrZUv92ATv7Q9NsMkyXRi96W23uVYVB5OpmAPqeUDdjMbaNMox.MMJ7wK2XtC20ZCg7F6w.Fn6SwCSNUn72p5VCpDJWWoTtT02VWmrfAoMQAspKp1VeKBm6MD9XFUxzZnyXQDy.tCdjMbaNMox.MMJ7wK2XKP7OTsp0F9f1w0HwMTpJ1keIFdJ4QbmupPV4SDSTFKg.FUsuMPS.wCz.hIm6MD9XFUxzZnyXQDy.KPCe36mv8CrJVeNFVURYH2T6jlJcY9yBAci2KKyaMb7.M5NXMc27Qbzz7CSTFKg.FUsuMPS.wCz.UhWGRYSVMCfT4uzDFCyAHCK.J6YDQ0RrQh0gKCz6FC7zZUw7F1yNQb6uhbyaMb7.M5NXMc27QbzzaPgP3TriwvkBpvRHQOJJpFzlRVNM3CzLdPq_UbSnFCCuMoYNMPzNwHJXhDz6FC7zZUw7F1yNQb6uUnavRVessHr9KsJ3H6wkS27gA0p7pUBsAnEdKK2nMIWXMvrXFnzB_by7tKSnFCCuMoYNMPzNwHJXU19G3DJu0K2DWUxOp9uNsOY9VCSVJX2bpnQgUD20ZCg7F6w.Fn6SwCSNhb2nMIWXMvrXFnzB_by7Kcg2MYMy1vwQUKfzKhmfQvwwFOJ6TDmApcqeUDdjMbaNMox.MMJ7wK2XtC20ZCg7F6w.Fn6SwCSNUn72MWfKJvJk1lp7nlwRHmRppDnNwm9C3nVeKBm6MD9XFUxzZnyXQDy.tCdjMbaNMox.MMJ7wK2XKP7O49mvYkRXJ6I7M9RSsDpbJ5S_V6pnwPV4SDSTFKg.FUsuMPS.wCz.hIm6MD9XFUxzZnyXQDy.KvnuMoYNM2LJqsY0KkmUUvRANO9nWO7uVDBJ8OzCFoVd8ZwfJsyKs2xYe0r9MO2iw0s8K6VeWOSwFzJXsur11Yemev74Fb7nI2obsC2fQUWuijetiKT7IURi4lTNMO2HIChE8CJ0wkmwpJ37WC3S3sEg.PSjwO9aQDOuwo2WQDW5WH07WC3S3sEg.PSjwO9CUukeQo9uMmRhQwVyKKeERDSKdkRT3V2iHlO6RVzSJDpkVwytWaVcra3SvaWnrpwBQ6UBikWCWOEuJ_Q4JslgJkQS.ulqqum9JD8jiaqDJkquqRVuWk0SJOqg.uEgrA3uJuPNqfkfIF7prQYJfvJwoG8dE8kArpxC0zqh394mtGF3qyZoqGEmrnwuLHqcuMjQQxx.QkCVWF6Zi91asiX9nFKg9H1MP6nKzqDYWuAeJsguJj9uWqVkJaQh.OA6HsVSWucjiGqmqGQoqRZkWqVkWqMCjoG7RDJ9tCknQcS9QKL.3i2.hDwOMczOdv37RCe6tCHCMcSbhbpb34JfQ63XRop67CmBFcy9w6DuRbmShbJ.MMJbMC3X3CfT7CRBRvL.3vv_hbYjwPzfMIgXRb2ftCmXZ1ybFv3.3K4SwPSPRbV.RBR9hDxgtCrNZcyLFUE.M6oBhbfS31zX3BqXFKz.tCyB51yNF6l.MvhahbNChbTbQ4JLQDEXMUw95cyjwbTNtCB5wDlNMby2hIJzRn2BMbWzZvE0tKe6RP6nJblNM6Q0hIxnRn2BMolzZbT9tKeLQ16nFC0NM6w6hIxSF12BwCxb7CTPMnyLRobuMKwPhbf.34JzMDqXFoJv76xytUx5Rc6B36WNQbrjh8enM12nw6Az46x0tUxO316BQvpehvwNR.JnFK3XwCzL76xu31yCMb8uQ6pehvYbh8TBhowOFPzuZvpPtUrP3c6zR6WNQoJfh8TOQP2SFczndKg7wbpdt6hL3nSCwKl.QX22hoR4wczTdvq7QKJet6UCRcSSFCmfh8zzQvwvFUWz_6N0tURu316NQKANwop0h82Swn20ICWz_DTb3nyaFDIyWcSnM6l.wBxOhoxOQ1zC46l7IKrjt6vBMnSeMvA.8IJS8c2_wD7zyCe7tUG.IKOBhbmTF1z6MIRSwc2.wC3rvaElKPRfJqDMU1pPYqQkU.zfFAVDKcJ8.AErWqEmWk9";if($_ts.lcd)$_ts.lcd();</script><script type="text/javascript" charset="utf-8" src="/oi5yPyMidst4/7wilvyIrd91b.3c3f591.js" r='m'></script><!--[if lt IE 9]>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/html5.js"></script>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/respond.js"></script>
+ <![endif]-->
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/jquery_1_12_4.js"></script>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/common.js"></script>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/page.js"></script>
+</head>
+<body>
+<!-- dom -->
+<div class="wrap"> 
+  <!-- header 开始 -->
+    <div class="header">
+    <div class="inner clearfix">
+      <h1><a href="http://mpa.hubei.gov.cn/">湖北省药品监督管理局</a></h1>
+      <h2><a href="http://mpa.hubei.gov.cn/" class="nt">政府信息公开</a></h2>
+    </div>
+  </div>
+  <!-- header 结束 --> 
+  <!-- content 开始 -->
+  <div class="content mt20">
+    <div class="grid p1">
+<a href="javascript:void(0);" name="test"></a>
+      <div class="row">
+         <div class="search-box">
+          <input type="text" maxlength="20" value="" onclick="if(this.value==''){this.value='';}" placeholder="" id="textfields" />
+          <button onclick="chkSearchs()"> <span class="iconfont icon-jyh-search"></span>搜 索</button>
+        </div>
+<script>
+function chkSearchs(){
+	if($('#textfields').val() == '' || $('#textfields').val().length == 0){
+		alert('请输入关键字');
+		return false;
+	}
+ var keywords = encodeURI($('#textfields').val());
+	$url = 'http://www.hubei.gov.cn/site/hb/#/all?type='+'所有'+'&siteId=20&name='+'湖北省药品监督管理局'+'&sitename='+'湖北省药品监督管理局'+'&sitetype='+'省直部门'+'&searchWord='+keywords+'';
+	window.open($url,'_blank'); 
+}	
+  $('#textfields').on('keypress',function (event) {
+        if (event.keyCode === 13){
+            chkSearchs();
+        }
+    });
+</script>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3"> 
+          <!-- ----目录树标签开始 ------>
+          <!-- 信息公开树 开始 -->
+      <div class="side_info">
+       <ul class="info-tree">
+<li id="31004"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/#test">政策</a><ul><li id="3045"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/gfwj/#test">规范性文件</a><ul><li id="43822"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/gfwj/qljg/#test">清理结果</a><ul></ul></li></ul></li><li id="31008"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/qtzdgkwj/#test">其他主动公开文件</a><ul><li id="43823"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/qtzdgkwj/qtwj/#test">其他文件</a><ul></ul></li></ul></li><li id="3046"><a href="http://mpa.hubei.gov.cn/zfxxgk/zc/zcjd_1/#test">政策解读</a><ul></ul></li></ul></li><li id="31013"><a href="http://mpa.hubei.gov.cn/zfxxgk/zfxxgkzn/#test">政府信息公开指南</a><ul></ul></li><li id="31020"><a href="http://mpa.hubei.gov.cn/zfxxgk/zfxxgkzd/#test">政府信息公开制度</a><ul></ul></li><li id="31023"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/#test">法定主动公开内容</a><ul><li id="31026"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/#test">机构简介</a><ul><li id="31029"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/dwzz/#test">单位职责</a><ul></ul></li><li id="31031"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/#test">领导信息</a><ul><li id="56812"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/xxt/#test">熊享涛</a><ul><li id="62953"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/xxt/ldhd_xxt/#test">领导活动</a><ul></ul></li></ul></li><li id="31475"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/lwb/#test">刘文斌</a><ul><li id="31481"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/lwb/ldhd/#test">领导活动</a><ul></ul></li></ul></li><li id="53143"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/dhy/#test">杜汉业</a><ul><li id="62954"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/dhy/ldhd_dhy/#test">领导活动</a><ul></ul></li></ul></li><li id="53144"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wll/#test">王璐璐</a><ul><li id="62955"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/wll/ldhd_wll/#test">领导活动</a><ul></ul></li></ul></li><li id="53145"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cj/#test">陈静</a><ul><li id="62956"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/cj/ldhd_cj/#test">领导活动</a><ul></ul></li></ul></li><li id="53146"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/zgq/#test">张国强</a><ul><li id="62957"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/zgq/ldhd_zgq/#test">领导活动</a><ul></ul></li></ul></li><li id="53147"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/syd/#test">孙育德</a><ul><li id="62958"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/ldxx/syd/ldhd_syd/#test">领导活动</a><ul></ul></li></ul></li></ul></li><li id="31032"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/nsjg/#test">内设机构</a><ul></ul></li><li id="31034"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/jgjj/zsdw/#test">直属单位</a><ul></ul></li></ul></li><li id="31038"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/ghxx/#test">规划信息</a><ul></ul></li><li id="31039"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/#test">统计信息</a><ul><li id="63241"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/2023/#test">2023</a><ul></ul></li><li id="53364"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/2022/#test">2022</a><ul></ul></li><li id="44440"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/2021/#test">2021</a><ul></ul></li><li id="39252"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/2020/#test">2020</a><ul></ul></li><li id="39255"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/2019/#test">2019</a><ul></ul></li><li id="39256"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/tjxx/wn/#test">往年</a><ul></ul></li></ul></li><li id="31040"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/xkfw/#test">许可/服务</a><ul><li id="34207"><a href="http://zwfw.hubei.gov.cn/webview/bszn/bmsy.html?department=11420000MB15291767#test#test" target="_blank">依据、条件、程序</a><ul></ul></li><li id="34208"><a href="https://59.175.169.149:88/SearchCardController.do?goCardList#test" target="_blank">行政许可结果</a><ul></ul></li><li id="61750"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/xkfw/xzjljg/#test">行政奖励结果</a><ul></ul></li><li id="61745"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/xkfw/xzqrjg/#test">行政确认结果</a><ul></ul></li></ul></li><li id="31043"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cfqz/#test">处罚/强制</a><ul><li id="40914"><a href="http://zwfw.hubei.gov.cn/webview/bszn/bmsy.html?department=11420000MB15291767#test#test" target="_blank">依据、条件、程序</a><ul></ul></li><li id="31045"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cfqz/xxcfjd/#test">行政处罚决定</a><ul></ul></li><li id="61749"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cfqz/xzzfnb/#test">行政执法年报</a><ul></ul></li></ul></li><li id="31047"><a href="http://zwfw.hubei.gov.cn/s/web/bszn/bmsy.html?department=11420000MB15291767#test" target="_blank">权责清单</a><ul></ul></li><li id="31052"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qxbldzmsxqd/#test">确需保留的证明事项清单</a><ul></ul></li><li id="31053"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/czzj/#test">财政资金</a><ul><li id="31054"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/czzj/czyjs/#test">财政预决算</a><ul><li id="53599"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/czzj/czyjs/2022nczyjs/#test">2022年财政预决算</a><ul></ul></li></ul></li><li id="31055"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/czzj/czzxzj/#test">财政专项资金</a><ul></ul></li></ul></li><li id="44873"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/xzsyxsf/#test">行政事业性收费</a><ul></ul></li><li id="31070"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/zfcg/#test">政府采购</a><ul><li id="31072"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/zfcg/cgml/#test">集中采购目录、标准、采购实施情况</a><ul></ul></li></ul></li><li id="31465"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/zdjsxm/#test">重大建设项目</a><ul></ul></li><li id="31077"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/gysyjs/#test">公益事业建设</a><ul><li id="31078"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/gysyjs/ypjg/#test">药品监管</a><ul><li id="50917"><a href="http://www.hubei.gov.cn/zhuanti/2021zt/ypaq/index.shtml#test"target="_blank">药品安全</a><ul></ul></li><li id="50053"><a href="http://mpa.hubei.gov.cn/bmdt/jgtb/#test"target="_blank">监管通报</a><ul></ul></li><li id="50055"><a href="http://mpa.hubei.gov.cn/bmdt/zlgg/ypzlgg/#test"target="_blank">质量公告</a><ul></ul></li></ul></li><li id="44874"><a href="http://mpa.hubei.gov.cn/bmdt/ztzl/2020/yqtb/#test" target="_blank">疫情防控</a><ul></ul></li><li id="44875"><a href="http://mpa.hubei.gov.cn/bmdt/ztzl/2020/sdgzj/#test" target="_blank">乡村振兴</a><ul></ul></li><li id="59648"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/gysyjs/hmhq/#test">惠民惠企</a><ul></ul></li></ul></li><li id="31074"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/zkly/#test">招考录用</a><ul></ul></li><li id="13862"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/#test">产品召回</a><ul></ul></li><li id="13860"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/blfyjcxx/#test">不良反应监测信息</a><ul></ul></li><li id="31079"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/#test">其他主动公开内容</a><ul><li id="45370"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/xjcygk/#test">决策预公开</a><ul><li id="50182"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/xjcygk/yjzjjjg/#test">意见征集及结果</a><ul></ul></li><li id="50183"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/xjcygk/jccajcasm/#test">决策草案及草案说明</a><ul></ul></li><li id="50185"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/xjcygk/zdjcsxml/#test">重大决策事项目录</a><ul></ul></li><li id="50829"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/xjcygk/hykf/#test">会议开放</a><ul></ul></li></ul></li><li id="40836"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/zczxjlsqk/#test">政策执行及落实情况</a><ul></ul></li><li id="31085"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/jytabl/#test">建议提案办理</a><ul></ul></li><li id="31086"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/zwdc/#test">政务督查</a><ul></ul></li><li id="59634"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/scbzgh/#test">市场标准规划</a><ul></ul></li><li id="31088"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/zfhy/#test">政府会议</a><ul></ul></li><li id="31092"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/hygq/#test">回应关切</a><ul></ul></li><li id="42849"><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/fzzfjs/#test">法治政府建设</a><ul></ul></li></ul></li></ul></li><li id="31095"><a href="http://mpa.hubei.gov.cn/zfxxgk/gknb/#test">政府信息公开年度报告</a><ul></ul></li><li id="31096"><a href="http://mpa.hubei.gov.cn/zfxxgk/zfwzjgndbb/#test">政府网站工作年度报表</a><ul></ul></li><li id="31098"><a href="http://mpa.hubei.gov.cn/zfxxgk/ysqgk/#test">依申请公开</a><ul></ul></li></ul></div>
+ <!-- 信息公开树 结束 -->
+<script>
+$(function(){
+var list=$(".info-tree>li").length;
+for(var i = 0 ;i<list ;i++){
+
+var infotree=$.trim($(".info-tree>li:eq("+i+")>a").text());
+
+if(infotree.length<=4){
+$(".info-tree>li:eq("+i+")>a").html('<i class="s'+(i+1)+'"></i>'+'<span class="is5">'+infotree.substr(0,4)+'</span>');
+}
+
+ if(infotree.length==5){
+$(".info-tree>li:eq("+i+")>a").html('<i class="s'+(i+1)+' ioc5"></i>'+'<span class="is5">'+infotree.substr(0,5)+'</span>');	
+}
+
+
+if(infotree.length>=6){
+$(".info-tree>li:eq("+i+")>a").html('<i class="s'+(i+1)+'"></i>'+infotree.substr(0,4)+"<br class='hidden-xs'>"+infotree.substr(4,4)+"<br class='hidden-xs'>"+infotree.substr(8,4));	
+}
+
+
+if(infotree.length>=11){
+$(".info-tree>li:eq("+i+")>a").html('<i class="s'+(i+1)+' ioc12"></i>'+infotree.substr(0,4)+"<br class='hidden-xs'>"+infotree.substr(4,4)+"<br class='hidden-xs'>"+infotree.substr(8,4)+"<br class='hidden-xs'>"+infotree.substr(12,4));	
+}
+
+if(infotree.length>12){
+$(".info-tree>li:eq("+i+")>a").html('<i class="s'+(i+1)+' ioc13"></i>'+infotree.substr(0,4)+"<br class='hidden-xs'>"+infotree.substr(4,4)+"<br class='hidden-xs'>"+infotree.substr(8,4)+"<br class='hidden-xs'>"+infotree.substr(12,4));	
+}
+
+};
+$(".article-box>.info-list li a").attr("target","_blank");
+$("#3031 a").attr("target","_blank");
+ $("#3045 ul").remove();
+ $("#31008 ul").remove();
+ $("#45370 ul").remove();
+$("#3027 a").attr("target","_blank");
+$("#31004 a span").css("letter-spacing","48px");
+ $("#31054 ul").remove();
+
+});
+</script>
+<style>
+
+@media (min-width: 768px){
+.is5{
+	line-height:56px;
+	}
+.ioc5 {
+    margin-top: 2px;
+}
+.ioc13{
+	margin-top: 30px;
+}
+.ioc12{
+	margin-top: 18px;
+}
+}
+@media (max-width: 480px){
+.is5{
+	line-height:27px;
+	}
+
+}
+</style>
+          <!-- ---- 目录树标签标签结束 ------> 
+        </div>
+        <div class="col-md-9">
+<div class="main">
+       <div class="article-box">
+        <ul class="info-list">
+ 
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202208/t20220815_4263659.shtml" title="湖北仙盟卫生防护用品有限公司对一次性使用医用口罩主动召回公告" target="_blank">湖北仙盟卫生防护用品有限公司对一次性使用医用口罩主动召回公告</a> <span>2022-08-15</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202208/t20220815_4263647.shtml" title="仙桃市天荣防护用品有限公司对一次性使用医用口罩主动召回公告" target="_blank">仙桃市天荣防护用品有限公司对一次性使用医用口罩主动召回公告</a> <span>2022-08-15</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202208/t20220801_4243297.shtml" title="医疗器械召回事件报告表（美纳里尼硅生物系统有限公司）" target="_blank">医疗器械召回事件报告表（美纳里尼硅生物系统有限公司）</a> <span>2022-05-30</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202109/t20210908_3744455.shtml" title="医疗器械召回事件报告表（武汉洛芙科技股份有限公司）" target="_blank">医疗器械召回事件报告表（武汉洛芙科技股份有限公司）</a> <span>2021-09-08</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202109/t20210908_3744447.shtml" title="医疗器械召回事件报告表（湖北益健堂科技股份有限公司）" target="_blank">医疗器械召回事件报告表（湖北益健堂科技股份有限公司）</a> <span>2021-09-08</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202108/t20210823_3716106.shtml" title="医疗器械召回事件报告表（湖北法保瑞防护科技有限公司）" target="_blank">医疗器械召回事件报告表（湖北法保瑞防护科技有限公司）</a> <span>2021-08-23</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202108/t20210806_3682627.shtml" title="医疗器械召回事件报告表（武汉春盛电子科技有限公司）" target="_blank">医疗器械召回事件报告表（武汉春盛电子科技有限公司）</a> <span>2021-08-06</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202107/t20210728_3667928.shtml" title="医疗器械召回事件报告表（武汉市九头鸟医疗仪器开发有限公司）" target="_blank">医疗器械召回事件报告表（武汉市九头鸟医疗仪器开发有限公司）</a> <span>2021-07-28</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202106/t20210622_3607328.shtml" title="医疗器械召回事件报告表（潜江天行健医疗用品有限公司）" target="_blank">医疗器械召回事件报告表（潜江天行健医疗用品有限公司）</a> <span>2021-06-22</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202102/t20210222_3355849.shtml" title="医疗器械召回事件报告表（湖北明尔康卫生防护用品有限公司）" target="_blank">医疗器械召回事件报告表（湖北明尔康卫生防护用品有限公司）</a> <span>2021-02-22</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202101/t20210106_3201356.shtml" title="医疗器械召回事件报告表（湖北明尔康卫生防护用品有限公司）" target="_blank">医疗器械召回事件报告表（湖北明尔康卫生防护用品有限公司）</a> <span>2021-01-06</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202012/t20201230_3178032.shtml" title="医疗器械召回事件报告表（武汉大白小白科技发展有限公司）" target="_blank">医疗器械召回事件报告表（武汉大白小白科技发展有限公司）</a> <span>2020-12-30</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202012/t20201230_3178002.shtml" title="医疗器械召回事件报告表（荆门新立医用纺织品有限公司）" target="_blank">医疗器械召回事件报告表（荆门新立医用纺织品有限公司）</a> <span>2020-12-30</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202011/t20201105_3001284.shtml" title="医疗器械召回事件报告表" target="_blank">医疗器械召回事件报告表</a> <span>2020-11-05</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202011/t20201105_3001271.shtml" title="医疗器械召回事件报告表" target="_blank">医疗器械召回事件报告表</a> <span>2020-11-05</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202010/t20201010_2947940.shtml" title="武汉诺贝药业有限公司对医用冷敷贴主动召回" target="_blank">武汉诺贝药业有限公司对医用冷敷贴主动召回</a> <span>2020-10-10</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202006/t20200619_2396365.shtml" title="医疗器械召回事件报告表" target="_blank">医疗器械召回事件报告表</a> <span>2020-06-19</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202006/t20200619_2396362.shtml" title="医疗器械召回事件报告表" target="_blank">医疗器械召回事件报告表</a> <span>2020-06-19</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/202006/t20200611_2387711.shtml" title="仙桃瑞鑫防护用品有限公司对一次性使用医用口罩主动召回" target="_blank">仙桃瑞鑫防护用品有限公司对一次性使用医用口罩主动召回</a> <span>2020-06-11</span></li>
+  
+         <li><a href="http://mpa.hubei.gov.cn/zfxxgk/fdzdgknr/cpzh/201901/t20190104_1575520.shtml" title="医疗器械召回事件报告表" target="_blank">医疗器械召回事件报告表</a> <span>2019-01-02</span></li>
+  
+
+
+        </ul>
+       </div>
+       <div class="pages">
+        <SCRIPT LANGUAGE="JavaScript">
+                            createPageHTML(2, 0,"index", "shtml",  "black2",38);
+             </SCRIPT>
+       </div>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- content 结束 --> 
+ <!-- footer 开始 -->
+    <div class="footer"> 
+  <!-- links 开始 -->
+  <div class="links">
+   <ul class="row">
+    <li class="col-md-4"><a href="http://www.gov.cn/" target="_blank">中央人民政府网</a></li>
+    <li class="col-md-4"><a href="http://www.hubei.gov.cn/" target="_blank">湖北省人民政府网</a></li>
+    <li class="col-md-4"><a href="http://www.samr.gov.cn/" target="_blank">国家市场监督管理总局网站</a></li>
+    <li class="col-md-3"><a href="http://scjg.hubei.gov.cn/" target="_blank">湖北省市场监督管理局网站</a></li>
+    <li class="col-md-3 links_arr"><a href="javascript:void(0);">国家及各省药品监督管理局网站</a>
+      <ul>
+       
+         <li><a href="https://www.nmpa.gov.cn/"  target="_blank" title="国家药品监督管理局">国家药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.beijing.gov.cn/"  target="_blank" title="北京市药品监督管理局">北京市药品监督管理局</a></li>
+       
+         <li><a href="http://scjg.tj.gov.cn/"  target="_blank" title="天津市市场监督管理委员会">天津市市场监督管理委员会</a></li>
+       
+         <li><a href="http://yjj.hebei.gov.cn/hbpda/"  target="_blank" title="河北省药品监督管理局">河北省药品监督管理局</a></li>
+       
+         <li><a href="https://yjj.shanxi.gov.cn/"  target="_blank" title="山西省药品监督管理局">山西省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.nmg.gov.cn/"  target="_blank" title="内蒙古自治区药品监督管理局">内蒙古自治区药品监督管理局</a></li>
+       
+         <li><a href="http://ypjg.ln.gov.cn/"  target="_blank" title="辽宁省药品监督管理局">辽宁省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.jl.gov.cn/"  target="_blank" title="吉林省药品监督管理局">吉林省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.hlj.gov.cn/"  target="_blank" title="黑龙江省药品监督管理局">黑龙江省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.sh.gov.cn/"  target="_blank" title="上海市药品监督管理局">上海市药品监督管理局</a></li>
+       
+         <li><a href="http://da.jiangsu.gov.cn/"  target="_blank" title="江苏省药品监督管理局">江苏省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.zj.gov.cn/"  target="_blank" title="浙江省药品监督管理局">浙江省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.ah.gov.cn/"  target="_blank" title="安徽省药品监督管理局">安徽省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.scjgj.fujian.gov.cn/default.htm"  target="_blank" title="福建省药品监督管理局">福建省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.jiangxi.gov.cn/"  target="_blank" title="江西省药品监督管理局">江西省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.shandong.gov.cn/"  target="_blank" title="山东省药品监督管理局">山东省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.henan.gov.cn/"  target="_blank" title="河南省药品监督管理局">河南省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.hubei.gov.cn/"  target="_blank" title="湖北省药品监督管理局">湖北省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.hunan.gov.cn/"  target="_blank" title="湖南省药品监督管理局">湖南省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.gd.gov.cn/"  target="_blank" title="广东省药品监督管理局">广东省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.gxzf.gov.cn/"  target="_blank" title="广西壮族自治区药品监督管理局">广西壮族自治区药品监督管理局</a></li>
+       
+         <li><a href="https://amr.hainan.gov.cn/himpa/"  target="_blank" title="海南省药品监督管理局">海南省药品监督管理局</a></li>
+       
+         <li><a href="http://yaojianju.cq.gov.cn/"  target="_blank" title="重庆市药品监督管理局">重庆市药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.sc.gov.cn/"  target="_blank" title="四川省药品监督管理局">四川省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.guizhou.gov.cn/"  target="_blank" title="贵州省药品监督管理局">贵州省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.yn.gov.cn/newsite/default.aspx"  target="_blank" title="云南省药品监督管理局">云南省药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.xizang.gov.cn/"  target="_blank" title="西藏自治区药品监督管理局">西藏自治区药品监督管理局</a></li>
+       
+         <li><a href="http://www.sxfda.gov.cn/"  target="_blank" title="陕西省药品监督管理局">陕西省药品监督管理局</a></li>
+       
+         <li><a href="http://yjj.gansu.gov.cn/"  target="_blank" title="甘肃省药品监督管理局">甘肃省药品监督管理局</a></li>
+       
+         <li><a href="http://ypjgj.qinghai.gov.cn/"  target="_blank" title="青海省药品监督管理局">青海省药品监督管理局</a></li>
+       
+         <li><a href="http://nxyjj.nx.gov.cn/"  target="_blank" title="宁夏回族自治区药品监督管理局">宁夏回族自治区药品监督管理局</a></li>
+       
+         <li><a href="http://mpa.xinjiang.gov.cn/"  target="_blank" title="新疆维吾尔自治区药品监督管理局">新疆维吾尔自治区药品监督管理局</a></li>
+       
+      </ul>
+    </li>
+    <li class="col-md-3 links_arr"><a href="javascript:void(0);" target="_blank">省直部门网站</a>
+     <ul>
+       
+         <li><a href="http://fgw.hubei.gov.cn/"  target="_blank" title="湖北省发展和改革委员会">湖北省发展和改革委员会</a></li>
+       
+         <li><a href="http://jyt.hubei.gov.cn/"  target="_blank" title="湖北省教育厅">湖北省教育厅</a></li>
+       
+         <li><a href="http://kjt.hubei.gov.cn/"  target="_blank" title="湖北省科学技术厅">湖北省科学技术厅</a></li>
+       
+         <li><a href="http://jxt.hubei.gov.cn/"  target="_blank" title="湖北省经济和信息化厅">湖北省经济和信息化厅</a></li>
+       
+         <li><a href="http://mzw.hubei.gov.cn/"  target="_blank" title="湖北省民族宗教事务委员会">湖北省民族宗教事务委员会</a></li>
+       
+         <li><a href="http://gat.hubei.gov.cn/"  target="_blank" title="湖北省公安厅">湖北省公安厅</a></li>
+       
+         <li><a href="http://mzt.hubei.gov.cn/"  target="_blank" title="湖北省民政厅">湖北省民政厅</a></li>
+       
+         <li><a href="http://sft.hubei.gov.cn/"  target="_blank" title="湖北省司法厅">湖北省司法厅</a></li>
+       
+         <li><a href="http://czt.hubei.gov.cn/"  target="_blank" title="湖北省财政厅">湖北省财政厅</a></li>
+       
+         <li><a href="http://rst.hubei.gov.cn/"  target="_blank" title="湖北省人力资源和社会保障厅">湖北省人力资源和社会保障厅</a></li>
+       
+         <li><a href="http://zrzyt.hubei.gov.cn/"  target="_blank" title="湖北省自然资源厅">湖北省自然资源厅</a></li>
+       
+         <li><a href="http://sthjt.hubei.gov.cn/"  target="_blank" title="湖北省生态环境厅">湖北省生态环境厅</a></li>
+       
+         <li><a href="http://zjt.hubei.gov.cn/"  target="_blank" title="湖北省住房和城乡建设厅">湖北省住房和城乡建设厅</a></li>
+       
+         <li><a href="http://jtt.hubei.gov.cn/"  target="_blank" title="湖北省交通运输厅">湖北省交通运输厅</a></li>
+       
+         <li><a href="http://slt.hubei.gov.cn/"  target="_blank" title="湖北省水利厅">湖北省水利厅</a></li>
+       
+         <li><a href="http://nyt.hubei.gov.cn/"  target="_blank" title="湖北省农业农村厅">湖北省农业农村厅</a></li>
+       
+         <li><a href="http://swt.hubei.gov.cn/"  target="_blank" title="湖北省商务厅">湖北省商务厅</a></li>
+       
+         <li><a href="http://wlt.hubei.gov.cn/"  target="_blank" title="湖北省文化和旅游厅">湖北省文化和旅游厅</a></li>
+       
+         <li><a href="http://wjw.hubei.gov.cn/"  target="_blank" title="湖北省卫生健康委员会">湖北省卫生健康委员会</a></li>
+       
+         <li><a href="http://va.hubei.gov.cn/"  target="_blank" title="湖北省退役军人事务厅">湖北省退役军人事务厅</a></li>
+       
+         <li><a href="http://yjt.hubei.gov.cn/"  target="_blank" title="湖北省应急管理厅">湖北省应急管理厅</a></li>
+       
+         <li><a href="http://sjt.hubei.gov.cn/"  target="_blank" title="湖北省审计厅">湖北省审计厅</a></li>
+       
+         <li><a href="http://gzw.hubei.gov.cn/"  target="_blank" title="湖北省人民政府国有资产监督管理委员会">湖北省人民政府国有资产监督管理委员会</a></li>
+       
+         <li><a href="http://scjg.hubei.gov.cn/"  target="_blank" title="湖北省市场监督管理局">湖北省市场监督管理局</a></li>
+       
+         <li><a href="http://gdj.hubei.gov.cn/"  target="_blank" title="湖北省广播电视局">湖北省广播电视局</a></li>
+       
+         <li><a href="http://tyj.hubei.gov.cn/"  target="_blank" title="湖北省体育局">湖北省体育局</a></li>
+       
+         <li><a href="http://tjj.hubei.gov.cn/"  target="_blank" title="湖北省统计局">湖北省统计局</a></li>
+       
+         <li><a href="http://ybj.hubei.gov.cn/"  target="_blank" title="湖北省医疗保障局">湖北省医疗保障局</a></li>
+       
+         <li><a href="http://rfb.hubei.gov.cn/"  target="_blank" title="湖北省人民防空办公室">湖北省人民防空办公室</a></li>
+       
+         <li><a href="http://zys.hubei.gov.cn/"  target="_blank" title="湖北省人民政府研究室">湖北省人民政府研究室</a></li>
+       
+         <li><a href="http://xczx.hubei.gov.cn/"  target="_blank" title="湖北省乡村振兴局">湖北省乡村振兴局</a></li>
+       
+         <li><a href="http://dfjrjgj.hubei.gov.cn/"  target="_blank" title="湖北省地方金融监督管理局">湖北省地方金融监督管理局</a></li>
+       
+         <li><a href="http://jgswj.hubei.gov.cn/"  target="_blank" title="湖北省机关事务管理局">湖北省机关事务管理局</a></li>
+       
+         <li><a href="http://ztb.hubei.gov.cn/"  target="_blank" title="湖北省公共资源交易监督管理局">湖北省公共资源交易监督管理局</a></li>
+       
+         <li><a href="http://lsj.hubei.gov.cn/"  target="_blank" title="湖北省粮食局">湖北省粮食局</a></li>
+       
+         <li><a href="http://jyj.hubei.gov.cn/"  target="_blank" title="湖北省监狱管理局">湖北省监狱管理局</a></li>
+       
+         <li><a href="http://lyj.hubei.gov.cn/"  target="_blank" title="湖北省林业局">湖北省林业局</a></li>
+       
+         <li><a href="http://mpa.hubei.gov.cn/"  target="_blank" title="湖北省药品监督管理局">湖北省药品监督管理局</a></li>
+       
+         <li><a href="http://zscqj.hubei.gov.cn/"  target="_blank" title="湖北省知识产权局">湖北省知识产权局</a></li>
+       
+         <li><a href="http://dzj.hubei.gov.cn/"  target="_blank" title="湖北省地质局">湖北省地质局</a></li>
+       
+         <li><a href="http://jycg.hubei.gov.cn/"  target="_blank" title="湖北省公共资源交易中心（湖北省政府采购中心）">湖北省公共资源交易中心（湖北省政府采购中心）</a></li>
+       
+         <li><a href="http://hbnysy.hubei.gov.cn/"  target="_blank" title="湖北省农业事业发展中心">湖北省农业事业发展中心</a></li>
+       
+         <li><a href="http://gxs.hubei.gov.cn/"  target="_blank" title="湖北省供销合作总社">湖北省供销合作总社</a></li>
+       
+     </ul>
+    </li>
+    <li class="col-md-3 links_arr"><a href="javascript:void(0);">直属单位网站</a>
+     <ul>
+       
+         <li><a href="http://223.75.228.160:83/"  target="_blank" title="湖北省医疗器械质量监督检验研究院">湖北省医疗器械质量监督检验研究院</a></li>
+       
+         <li><a href="http://www.hubyjs.org.cn/"  target="_blank" title="湖北省药品监督检验研究院">湖北省药品监督检验研究院</a></li>
+       
+     </ul>
+    </li>
+   </ul>
+  </div>
+  <!-- links 结束 --> 
+  <!-- copyright 开始 -->
+  <div class="copyright clearfix">
+
+    <div class="p20 fl">
+      <p>版权所有：湖北省药品监督管理局</p>
+      <p>网站标识码：4200000052</p><script id="_trs_ta_js" src="//mpa.hubei.gov.cn/c/js/ta.js?mpid=5443" async="async" defer="defer"></script>
+      <p>鄂ICP备05011090号-1</p>
+    </div>
+
+    <div class="p20 fl">
+      <div class="fl mr30">
+      <p><span>地址：武汉市武昌区公正路19号省局办公大楼</span></p>
+      <p><span>联系电话：027-87111500</span><span>邮编:430071</span></p>
+      <p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010602003442"  target="_blank"><img src="http://mpa.hubei.gov.cn/material/images/footer_icp.png" alt="" /> 鄂公网安备42010602003442</a><span><a href="http://mpa.hubei.gov.cn/fzlm/wzdt/" target="_blank"><img src="http://mpa.hubei.gov.cn/material/images/images_2021/wzdt.png" />网站地图</a></span></p>
+    </div> 
+   <div class="gov"><a href="http://bszs.conac.cn/sitename?method=show&id=05087B030D13144AE053022819AC918F" target="_blank"><img src="http://mpa.hubei.gov.cn/material/images/red.png" alt="" /></a></div>
+   <div class="jc"><script id="_jiucuo_" sitecode='4200000052' src='//mpa.hubei.gov.cn/material/js/jiucuo.js'></script></div>
+    </div>
+  </div>
+  <!-- copyright 结束 --> 
+ </div>
+<!--外链跳转-->
+<link type="text/css" rel="stylesheet" href="http://mpa.hubei.gov.cn/material/css/wltz.css" />
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/wltz.js"></script>
+<script type="text/javascript" src="http://mpa.hubei.gov.cn/material/js/ssoAjax.js"></script>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"  style="height:165px;">
+    <div class="modal-header">
+        <button type="button" class="bootstrap-close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">&nbsp;</h3>
+    </div>
+    <div class="modal-body">
+        <p>您访问的链接即将离开“<span id="modalDomainName"></span>”门户网站 是否继续？</p>
+        <input id="modalOuterURL" type="hidden" />
+    </div>
+    <div class="modal-footer">
+        <button class="bootstrap-btn bootstrap-btn-default" data-dismiss="modal" aria-hidden="true">放弃</button>
+        <button class="bootstrap-btn bootstrap-btn-danger" onclick="toRedirect()">继续访问</button>
+    </div>
+</div>
+
+<link href="//mpa.hubei.gov.cn/material/indeci/static/css/iconfont.css" rel="stylesheet" type="text/css" />
+<link href="//mpa.hubei.gov.cn/material/indeci/static/css/indeci.css" rel="stylesheet" type="text/css" />
+<link href="//mpa.hubei.gov.cn/material/assets/css/bf/barrierfree.css" rel="stylesheet" type="text/css" />
+<script src="//mpa.hubei.gov.cn/material/assets/js/iframe.js" id="barrierFree" data="sn=D39315BB4E6D4E7E10993BE189055C6A0CB734F93284C7F6C2D6672907F7F9CB&rcode=535B951AB7792F0823C712EBBD2BB0C0D9A4E15BFC3D6CA803A83BE109BD982C003EC03B6082B1D616EB3045AA4B89DED1621AC006BC1ECE526A815EAB0E557F7FEA4CC40D0F7C1F67B1C17CBA17814E996253332898F3B2858C23FDCAFFA6B36BD96B7E048FE404D31B11D4A3067DD50EDAE139B80F00B2C9CB179C701736A1&helpsrc=//mpa.hubei.gov.cn/fzlm/wza/202107/t20210708_3635256.shtml"></script>
+<script>
+(function(){
+$.splitArea({
+		pageInfo: {type: '综合页'},
+		nav: [
+			{
+				el: '.nav',  //配置导航区的类名
+				desc: '主栏目导航'  //导航区的名称
+			}
+		],
+		window: [
+			{
+				el: '.headline',  //配置视窗区的类名
+				desc: '头条区'  //视窗区的名称
+			},
+                        {
+				el: '#b1',  //配置视窗区的类名
+				desc: '要闻区'  //视窗区的名称
+			},
+                        {
+				el: '#b2',  //配置视窗区的类名
+				desc: '调整公告、政策文件、政策解读、质量公告、不良反应监测'  //视窗区的名称
+			},
+                        {
+				el: '#b3',  //配置视窗区的类名
+				desc: '政府信息公开'  //视窗区的名称
+			},
+                        {
+				el: '#b4',  //配置视窗区的类名
+				desc: '办事服务区'  //视窗区的名称
+			},
+                         {
+				el: '#b5',  //配置视窗区的类名
+				desc: '互动交流区'  //视窗区的名称
+			},
+                         {
+				el: '#b6',  //配置视窗区的类名
+				desc: '专题专栏区'  //视窗区的名称
+			},
+                        {
+				el: '.option',  //配置视窗区的类名
+				desc: '文章信息区'  //视窗区的名称
+			},
+                        {
+				el: '.article',  //配置视窗区的类名
+				desc: '文章正文区'  //视窗区的名称
+			},
+                        {
+				el: '.footer',  //配置视窗区的类名
+				desc: '底部功能区'  //视窗区的名称
+			}
+		],
+		interactive: [
+			{
+				el: '.search', //配置交互去的类名
+				desc: '搜索区'  //交互区的名称
+			}
+		]
+});
+
+
+$.elderOptions([
+	{ el: '.nav', desc: '主栏目导航,本区域包含首页、机构设置、政府信息公开、办事服务、互动交流、部门动态'},
+	{ el: '.search', desc: '搜索区，输入您想要搜索的相关内容'}
+])
+
+
+})();
+</script>
+ <!-- footer 结束 --> 
+</div>
+<!-- dom 结束 --> 
+<!-- js --> 
+<script>
+ //dom effect
+ $(document).ready(function() {
+
+ //当前高亮 
+ $(".main .info-list li:nth-child(10n)").after('<li class="line"></li>');
+$("#").addClass("current").siblings().removeClass("current");
+$("#").addClass("current").siblings().removeClass("current"); 
+$("#").addClass("current").siblings().removeClass("current");
+$("#31002").addClass("current").siblings().removeClass("current");
+$("#31023").addClass("current").siblings().removeClass("current");
+$("#13862").addClass("current").siblings().removeClass("current");
+
+        //左边菜单
+        $('.info-tree li ul:empty').remove();
+        $('.info-tree li').append('<i></i>');
+        $('.info-tree > li').has('ul:not(:empty)').addClass('level-1');
+        $('.info-tree > li').has('ul:not(:empty)').children('a').attr("href","javascript:void(0)");
+        $('.info-tree > li > ul > li').has('ul:not(:empty)').addClass('level-2');
+        $('.info-tree > li > ul > li>ul>li').has('ul:not(:empty)').addClass('level-2');
+        $('.info-tree > li > ul > li').has('ul:not(:empty)').children('a').attr("href","javascript:void(0)");
+        $('.info-tree > li > ul > li>ul>li').has('ul:not(:empty)').children('a').attr("href","javascript:void(0)");
+        $('.info-tree > li').has('ul:not(:empty)').find('a,i').click(function(event) {
+            $(this).parent().toggleClass('current').removeClass("bh");
+        });
+
+  //table
+  $(".info-list > table > tbody > tr:odd").css("background-color","#f2f2f2"); 
+    $('.info-list td a').mouseover(function() {
+        $(this).parent().find('.extra').children('.lay').show();
+    }).mouseleave(function() {
+        $(this).parent().find('.extra').children('.lay').hide();
+    });
+  $('.info-list td .lay').mouseover(function() {
+        $(this).show();
+    }).mouseleave(function() {
+        $(this).hide();
+    });   
+
+//附件
+var annex = $("#annex");
+var list = $("#list");
+if(!list.has('li').length){
+ annex.hide();
+ }
+
+ });
+ </script>
+</body>
+</html>
